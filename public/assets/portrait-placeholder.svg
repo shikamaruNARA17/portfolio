@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="700" viewBox="0 0 600 700">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#d7dfcd"/><stop offset="1" stop-color="#becbb1"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#6d8658" stroke-opacity=".12"/></pattern></defs>
+  <path fill="url(#bg)" d="M0 0h600v700H0z"/><path fill="url(#grid)" d="M0 0h600v700H0z"/>
+  <circle cx="300" cy="302" r="196" fill="none" stroke="#769065" stroke-opacity=".35"/>
+  <circle cx="300" cy="302" r="169" fill="#dfe6d5" fill-opacity=".55"/>
+  <path d="M-60 645Q230 400 660 560M-30 696Q250 450 650 610" fill="none" stroke="#8a9f77" stroke-width="1"/>
+  <text x="292" y="346" text-anchor="middle" font-family="Georgia,serif" font-size="152" letter-spacing="-12" fill="#365440">DS</text>
+  <text x="300" y="605" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="5" fill="#536b44">A WORK IN PROGRESS</text>
+</svg>
